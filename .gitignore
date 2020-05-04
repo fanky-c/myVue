@@ -7,7 +7,6 @@ dist
 test/e2e/reports
 test/e2e/screenshots
 coverage
-RELEASE_NOTE*.md
 packages/vue-server-renderer/basic.js
 packages/vue-server-renderer/build.js
 packages/vue-server-renderer/server-plugin.js
